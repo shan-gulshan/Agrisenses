@@ -17,7 +17,7 @@ with st.sidebar:
 # Custom centered header with tighter spacing
 st.markdown("""
     <div style="display: flex; justify-content: center; align-items: center; padding-top: 10px; padding-bottom: 5px;">
-        <h1 style='color: #2E8B57; font-size: 42px; margin: 0;'>🌾 AgriNova 
+        <h1 style='color: #2E8B57; font-size: 42px; margin: 0;'>🌾 AgriSense 
         <span style='font-size: 20px; color: gray;'>(Agriculture + Innovation)</span></h1>
     </div>
 """, unsafe_allow_html=True)
@@ -27,7 +27,7 @@ st.markdown("---")
 # Home Page
 if selected == "Home":
     with st.container():
-        st.markdown("## 👋 Welcome to AAgriSense!")
+        st.markdown("## 👋 Welcome to AgriSense!")
         st.markdown("> *“Empowering Farmers with Innovation and Intelligence.”*")
 
         st.markdown("""
