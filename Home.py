@@ -27,11 +27,11 @@ st.markdown("---")
 # Home Page
 if selected == "Home":
     with st.container():
-        st.markdown("## 👋 Welcome to AgriNova!")
+        st.markdown("## 👋 Welcome to AAgriSense!")
         st.markdown("> *“Empowering Farmers with Innovation and Intelligence.”*")
 
         st.markdown("""
-        **AgriNova** is your all-in-one smart farming companion 🌿.  
+        **AgriSense** is your all-in-one smart farming companion 🌿.  
         This platform supports farmers and agri-enthusiasts by integrating machine learning–driven solutions to optimize crop health, productivity, and sustainability.
         """)
 
